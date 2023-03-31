@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648514300491",
+    "project_id": "music-app-bf228",
+    "storage_bucket": "music-app-bf228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648514300491:android:ee22e6aca341e9fef8fbce",
+        "android_client_info": {
+          "package_name": "com.jonathansedgwick.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648514300491-aondvj5nib0fluu0sh83lksu8tik11av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATrdKIkcccalwFVa0KMW3XU3rh0q3lPZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648514300491-aondvj5nib0fluu0sh83lksu8tik11av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
